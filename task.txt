@@ -1,0 +1,16 @@
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.google.com
+Address: 172.217.171.196
+Name:	www.google.com
+Address: 2a00:1450:4006:803::2004
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=118 time=130 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=118 time=42.0 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=118 time=38.3 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=118 time=38.2 ms
+
+inet 192.168.1.34/24 brd 192.168.1.255
